@@ -1,0 +1,16 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Resumen}{1}
+\contentsline {chapter}{\numberline {2}Historia}{2}
+\contentsline {section}{\numberline {2.1}El n\'umero $\pi $ en la antig\"uedad}{2}
+\contentsline {subsection}{\numberline {2.1.1}El m\'etodo de Arqu\IeC {\'\i }medes}{2}
+\contentsline {subsection}{\numberline {2.1.2}El n\'umero $\pi $ en la Edad Moderna y Contempor\'anea}{3}
+\contentsline {chapter}{\numberline {3}Curiosidades}{4}
+\contentsline {section}{\numberline {3.1}CONFUNDIENDO ALUMNOS DESDE 1706... O ANTES}{4}
+\contentsline {section}{\numberline {3.2}LA CUADRATURA DEL C\'IRCULO}{4}
+\contentsline {section}{\numberline {3.3}UN N\'UMERO... MUY LARGO}{4}
+\contentsline {section}{\numberline {3.4}APRENDIENDO UN N\'UMERO INFINITO}{5}
+\contentsline {section}{\numberline {3.5}PI TRAINER}{5}
+\contentsline {section}{\numberline {3.6}PI ES CUATRO Y ES UN CUADRADO}{5}
+\contentsline {section}{\numberline {3.7}LA RELACI\'ON ENTRE PI Y LAS TARTAS}{5}
+\contentsline {section}{\numberline {3.8}PI EN EL CINE}{5}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{5}
